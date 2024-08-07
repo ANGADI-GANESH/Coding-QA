@@ -1,4 +1,4 @@
-// C++
+// C++ Sum of 2 numbers to meet target value
 
 #include<iostream>
 #include<vector>
