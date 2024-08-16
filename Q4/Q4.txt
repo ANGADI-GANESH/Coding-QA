@@ -1,0 +1,11 @@
+Given a string, determine whether it is a palindrome.
+
+A palindrome is a word, phrase, or sequence that reads the same backward as forward.
+
+Example:
+
+"racecar" is a palindrome.
+"hello" is not a palindrome.
+Constraints:
+
+The input string can contain lowercase and uppercase letters, as well as spaces.
